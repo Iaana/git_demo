@@ -1,2 +1,4 @@
 new song file
 2nd line of the song
+
+adding a new file to test git gui
